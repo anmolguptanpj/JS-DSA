@@ -21,7 +21,7 @@
 
 // console.log(a);
 
-// Javscript is dynamic Programming Language
+/************************************************* Javscript is dynamic Programming Language *************************************/ 
 
 
 
@@ -34,6 +34,7 @@
 
 // console.log(arr);
 
+/********************************** Creating Array with a prompt **************************/
 
 
 // let arr = []
@@ -54,6 +55,7 @@
 
 // console.log(arr)
 
+/**********************************Sum of an array**************************/
 
 // let arr = [10,20,30,40,50]
 // let sum = 0;
@@ -63,6 +65,8 @@
 
 // console.log(sum);
 
+
+/*****************************finding max number in array***********************************************/
 
 // let arr = [10,2,78,100,450];
 // let max = arr[0];
@@ -74,6 +78,7 @@
 
 // console.log(max)
 
+/*****************************finding max 2 number in array***********************************************/
 
 // let arr = [10,30,56,43,29,64,49,60];
 // let max = Math.max(arr[0],arr[1]); console.log(max)
@@ -89,6 +94,7 @@
 
 // console.log(`max is ${max} and sMax is ${sMax}`);
 
+/*****************************traversing an array with an extra space***********************************************/
 
 // let arr = [10,20,30,40,50,60]
 // let temp = [];
@@ -98,6 +104,9 @@
 //     j++
 // }
 // console.log(temp)
+
+
+/*****************************traversing an array without an extra space ***********************************************/
 
 
 // let arr = [10,20,30,40,50,60]
@@ -114,6 +123,7 @@
 
 // console.log(arr)
 
+/***************************** setting alike elements together in an arry ***********************************************/
 
 // let arr = [1,1,0,1,0,1,1,0,0];
 
